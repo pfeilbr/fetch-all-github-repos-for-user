@@ -18,6 +18,8 @@ install to `~/bin` via `make install`
 
 e.g. `fetch-all-github-repos-for-user.sh pfeilbr`
 
+> creates `[GTIHUB USERNAME]` directory relative to current and stores each repo beneath it
+
 ## TODO
 
 * only fetches first 100 repos.  update to fetch all of them
