@@ -17,3 +17,7 @@ install to `~/bin` via `make install`
 `fetch-all-github-repos-for-user.sh [GTIHUB USERNAME]`
 
 e.g. `fetch-all-github-repos-for-user.sh pfeilbr`
+
+## TODO
+
+* only fetches first 100 repos.  update to fetch all of them
