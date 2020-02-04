@@ -23,3 +23,6 @@ e.g. `fetch-all-github-repos-for-user.sh pfeilbr`
 ## TODO
 
 * only fetches first 100 repos.  update to fetch all of them
+* fetch all updates to an existing "local" on disk repo.
+    > cleanest option maybe to delete the local repo directory and re-clone
+    > downside is dropbox need to resync everything
